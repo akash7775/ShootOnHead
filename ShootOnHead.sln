@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootOnHead", "ShootOnHead\ShootOnHead.csproj", "{0A1727EA-92D4-452A-BB09-DD0D46A1597F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1727EA-92D4-452A-BB09-DD0D46A1597F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1727EA-92D4-452A-BB09-DD0D46A1597F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1727EA-92D4-452A-BB09-DD0D46A1597F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1727EA-92D4-452A-BB09-DD0D46A1597F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289C6886-9043-4138-9B1E-826D69B40C30}
+	EndGlobalSection
+EndGlobal
